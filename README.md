@@ -7,7 +7,7 @@ Ce dépôt contient deux notebooks qui suivent le même cycle de projet data :
 | Étape du TP | Notebook | Sujet | Outils |
 |---|---|---|---|
 | 1. Data | `étudesdecas(Data).ipynb` | Prédiction des retards de vols aux États-Unis (2015) | pandas, scikit-learn |
-| 2. Big Data | `notebookbad848d1ae.ipynb` | Prédiction du diabète (enquête de santé BRFSS) | PySpark, Spark MLlib |
+| 2. Big Data | `étudesdecas(BigData).ipynb` | Prédiction du diabète (enquête de santé BRFSS) | PySpark, Spark MLlib |
 
 ---
 
